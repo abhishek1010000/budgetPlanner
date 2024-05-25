@@ -1,0 +1,31 @@
+.info{
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+}
+.info h2{
+  padding: 13px 20px;
+}
+.h21{
+  background-color: rgb(240, 237, 232);
+}
+.h22{
+  color: green;
+  background-color: rgb(240, 237, 232);
+}
+.h23{
+  background-color: aquamarine;
+}
+.add{
+  color: green;
+  display: flex;
+  justify-content: space-around;
+}
+button{
+  padding: 7px 15px;
+  background-color: aquamarine;
+  border: none;
+  outline: none;
+  font-size: 18px;
+  font-weight: 600;
+}
